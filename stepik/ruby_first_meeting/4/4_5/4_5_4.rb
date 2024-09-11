@@ -1,4 +1,4 @@
-hash = {1: 2, 2: 2, 3: 2}
+hash = {:test => 1, "2" => 2, "3" => 3}
 
 res_sum = 0
 hash.values.each do |el|
